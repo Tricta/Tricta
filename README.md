@@ -3,7 +3,7 @@
 ### Infos
 ```
   | Name: João Pedro Tricta de Almeida Torres Parisi
-  | Age: 18
+  | Age: 19
   | Occupation: CyberSecurity - FIAP, Brazil.
 ```
 
