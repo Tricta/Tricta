@@ -1,23 +1,21 @@
 <h1 align="center">Pentester & Researcher</h1>
 
-### 👾 Infos
+## 👾 Infos
 ```
   | Name: João Tricta
   | Age: 19
-  | Occupation: Pentester at Hakai Security 👹.
+  | Occupation: Pentester - Hakai Security 👹.
 ```
 
-### 🛠️ Skills
----
+## 🛠️ Skills
 - Malware Development
 - Reverse Engineering
 - Red Team
 - Mobile
 
-### 📫 More
----
+## 📫 More
 <p align="center">
-  <img heigth="400" width="400" src="https://repository-images.githubusercontent.com/272563074/d95fe600-2672-11eb-890a-be68b954f75d"/>
+  <img heigth="450" width="450" src="https://repository-images.githubusercontent.com/272563074/d95fe600-2672-11eb-890a-be68b954f75d"/>
 </p>
 
 <p align="center">
