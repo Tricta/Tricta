@@ -1,4 +1,5 @@
-# Tricta 👾
+<h1 align="center"> Tricta 👾 </h1>
+
 ```
   | Age: 19
   | Occupation: Pentester at Hakai Security 👹
