@@ -2,7 +2,7 @@
 
 ```
   | Age: 19
-  | Occupation: Pentester at Hakai Security 👹
+  | Occupation: Pentester, Researcher and Malware Developer at Hakai Security 👹
   | Skills: Malware Dev, Mobile & Binary Exploitation
 ```
 
