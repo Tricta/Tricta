@@ -1,7 +1,7 @@
 <h1 align="center"> Tricta 👾 </h1>
 
 ```
-  | Age: 19
+  | Age: 20
   | Occupation: Pentester, Researcher and Malware Developer at Hakai Security 👹
   | Skills: Malware Dev, Mobile & Binary Exploitation
 ```
